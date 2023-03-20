@@ -1,4 +1,4 @@
-hi here is my COMP551 asgns
+hi here are my COMP551 asgns
 
 a1: KNN & Decision tree
 a2: Naive Bayes + Softmax Logistic Regression
